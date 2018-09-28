@@ -34,7 +34,7 @@ print(req.history)
  
 req.headers['Content-Type']"""
 
-import multitasking
+"""import multitasking
 import time
 import random
 import signal
@@ -54,4 +54,17 @@ def hello(count):
 
 if __name__ == "__main__":
     for i in range(0, 10):
-        hello(i+1)
+        hello(i+1)"""
+
+"""class some:
+    def __init__(self):"""
+
+from tkinter import *;
+
+root = Tk();
+
+label = Label(root, text="Hello World!");
+
+label.pack();
+
+root.mainloop();
